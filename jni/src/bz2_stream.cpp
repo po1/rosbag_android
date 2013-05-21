@@ -38,6 +38,8 @@
 
 #include <ros/ros.h>
 
+#define ROS_ERROR
+
 using std::string;
 
 namespace rosbag {
